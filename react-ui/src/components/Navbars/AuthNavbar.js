@@ -154,7 +154,7 @@ export default function AuthNavbar(props) {
         </Box>
         {linksAuth}
         <Link target="_blank" 
-          href="https://appseed.us/product/node-js-react-purity-dashboard">
+          href="https://appseed.us/product/laravel-react-purity-dashboard">
           <Button
             bg={bgButton}
             color={colorButton}

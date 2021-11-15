@@ -55,7 +55,7 @@ export default function Footer(props) {
             md: "44px",
           }}
         >
-          <Link href="https://appseed.us/product/node-js-react-purity-dashboard"
+          <Link href="https://appseed.us/product/laravel-react-purity-dashboard"
             target="_blank"
             color="gray.400">
             {document.documentElement.dir === "rtl"

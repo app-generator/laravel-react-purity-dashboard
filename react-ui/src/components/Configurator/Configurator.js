@@ -144,7 +144,7 @@ export default function Configurator(props) {
                 </Text>
                 <Box>
                   <Link
-                    href="https://appseed.us/product/node-js-react-purity-dashboard"
+                    href="https://appseed.us/product/laravel-react-purity-dashboard"
                     w="100%"
                     mb="16px"
                   >
@@ -168,10 +168,10 @@ export default function Configurator(props) {
                   mb="16px"
                 >
                   <GitHubButton
-                    href="https://github.com/app-generator/react-purity-ui-dashboard"
+                    href="https://github.com/app-generator/laravel-react-purity-dashboard"
                     data-icon="octicon-star"
                     data-show-count="true"
-                    aria-label="Star creativetimofficial/purity-ui-dashboard on GitHub"
+                    aria-label="Star on GitHub"
                   >
                     Star
                   </GitHubButton>
