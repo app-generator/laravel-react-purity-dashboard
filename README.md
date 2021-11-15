@@ -30,7 +30,7 @@ The product is built using a `two-tier` pattern where the React frontend is deco
 
 ## How to use the product
 
-### Start the Laravel API 
+### Step #1 - Start the Laravel API 
 
 ```bash
 $ cd laravel-api
@@ -71,7 +71,7 @@ $ sudo apt install php-xml php-cli php-mbstring php7.4-sqlite
 
 <br />
 
-### Compile & start the React UI
+### Step #2 - Compile & start the React UI
 
 ```bash
 $ cd react-ui
@@ -87,10 +87,10 @@ $ yarn start
 
 ### Configuration (Optional)
 
-> Change the port exposed by the Flask API
+> Change the port exposed by the Laravel API
 
 ```bash
-$ flask run --port 5001
+$ php -S localhost:5001 server.php
 ```
 
 Now, the API can be accessed on port `5001`
@@ -159,21 +159,21 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Product UI
 
-> React Laravel Purity Dashboard - Login 
+> React Laravel Purity Dashboard - User 
 
-![React Laravel Purity Dashboard - Login.](https://user-images.githubusercontent.com/51070104/141444378-763ca3fb-c18c-4558-9730-b42a341a7b22.jpg)
-
-<br />
-
-> React Laravel Purity Dashboard - Icons
-
-![React Laravel Purity Dashboard - Icons.](https://user-images.githubusercontent.com/51070104/141444472-8c966396-69dc-46c3-835e-b64329fdbf7d.jpg)
+![React Laravel Purity Dashboard - User.](https://user-images.githubusercontent.com/51070104/141836783-7ae01bb4-4505-4d14-990d-be49a12a8cea.png)
 
 <br />
 
-> React Laravel Purity Dashboard - Colors
+> React Laravel Purity Dashboard - Billing
 
-![React Laravel Purity Dashboard - Colors.](https://user-images.githubusercontent.com/51070104/141444532-46a3bcd0-841b-4725-aa82-122569cd678a.jpg)
+![React Laravel Purity Dashboard - Billing.](https://user-images.githubusercontent.com/51070104/141836831-2d5c61a4-889b-4c4c-903b-98c2f7c8bdd8.png)
+
+<br />
+
+> React Laravel Purity Dashboard - RTL Support
+
+![React Laravel Purity Dashboard - RTL Support.](https://user-images.githubusercontent.com/51070104/141836894-d0339a57-4584-45ed-bd83-53cb0eaa8485.png)
 
 <br />
 
