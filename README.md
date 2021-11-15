@@ -1,11 +1,11 @@
-# React Laravel Purity Dashboard
+# [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard)
 
-Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **Laravel React Purity** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
+Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
 
 > Links
 
 - [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
-- [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com) - LIVE Demo
+- [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
 - LIVE [Support](https://react-flask-authentication.appseed-srv1.com/) via [Discord](https://discord.gg/fZC6hup) - provided by AppSeed
 
 <br />
@@ -185,4 +185,4 @@ authorization: JWT_TOKEN (returned by Login request)
 <br />
 
 ---
-**React Laravel Purity Dashboard** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
+**[React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard)** - Open-source full-stack seed project provided by **AppSeed [App Generator](https://appseed.us/)**
