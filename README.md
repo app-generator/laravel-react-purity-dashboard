@@ -6,7 +6,7 @@ Open-source full-stack seed project that uses a `React UI` powered by a simple `
 
 - [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
 - [React Laravel Purity Dashboard](https://laravel-react-purity-dashboard.appseed-srv1.com/#/auth/signin) - LIVE Demo
-- LIVE [Support](https://react-flask-authentication.appseed-srv1.com/) via [Discord](https://discord.gg/fZC6hup) - provided by AppSeed
+- LIVE [Support](https://appseed.us/support) via [Discord](https://discord.gg/fZC6hup) - provided by AppSeed
 
 <br />
 
