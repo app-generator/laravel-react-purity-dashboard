@@ -1,6 +1,6 @@
 # React Laravel Purity Dashboard
 
-Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **Laravel React Purity** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and Laravel is a leading web framework written in PHP. 
+Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **Laravel React Purity** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
 
 > Links
 
