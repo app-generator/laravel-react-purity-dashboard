@@ -10,7 +10,7 @@ Open-source full-stack seed project that uses a `React UI` powered by a simple `
 
 <br />
 
-![React Laravel Purity Dashboard - Open-source full-stack seed project crafted by Creative-Tim and AppSeed.](https://user-images.githubusercontent.com/51070104/137620059-07547eb2-0e7c-45e3-b825-67f5c72e4d3e.gif)
+![React Laravel Purity Dashboard - Open-source full-stack seed project crafted by Creative-Tim and AppSeed.](https://user-images.githubusercontent.com/51070104/137163880-b117bb7b-daab-45dc-ae88-956cbe966d02.gif)
 
 <br />
 
@@ -50,6 +50,10 @@ $
 $ # Start the server
 $ php -S localhost:5000 server.php
 ```
+
+<br />
+
+![Laravel API Server - Open-source Seed project.](https://user-images.githubusercontent.com/51070104/141784950-b63f71bb-192e-4851-af6b-1b7a99226c9f.jpg)
 
 <br />
 
