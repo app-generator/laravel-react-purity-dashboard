@@ -2,6 +2,20 @@
 
 Open-source full-stack seed project that uses a `React UI` powered by a simple `Laravel API Server`. **[Laravel React Purity](https://appseed.us/product/laravel-react-purity-dashboard)** sample can be used to bootstrap fast a new project using a tested `development-ready` stack or simply for eLearning purposes by beginners. For newcomers, **React** is a popular Javascript library for coding user interfaces baked by Facebook and **Laravel** is a leading web framework written in PHP. 
 
+<br />
+
+> Features
+
+- Innovative **Chakra UI** Design - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
+- React, Redux, Redux-persist
+- Authentication: JWT Login/Register/Logout
+- Full-stack ready using **[Laravel API Server](https://github.com/app-generator/api-server-laravel)** (open-source project)
+  - Simple, intuitive codebase - can be extended with ease.
+  - Stack: PHP 7.4+ / Laravel 8 / Doctrine
+  - Authentication via [JWT Auth](https://github.com/tymondesigns/jwt-auth) a dedicated library for Laravel and Lumen
+  
+<br />
+
 > Links
 
 - [React Laravel Purity Dashboard](https://appseed.us/product/laravel-react-purity-dashboard) - product page
